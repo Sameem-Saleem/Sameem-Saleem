@@ -101,9 +101,6 @@
 <a href="https://github.com/pioneers/shepherd">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pioneers&repo=shepherd" />
 </a>
-<a href="https://github.com/Sameem-Saleem/rattrap">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sameem-Saleem&repo=rattrap" />
-</a>
 
 ---
 
