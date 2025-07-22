@@ -2,7 +2,7 @@
 <h1 align='center'> <strong>Sameem Saleem</strong> </h1>
 <!-- Summary -->
 <p text-align='justify'>
-  Ambitious and driven Junior Computer Science student attending UC Berkeley and CCC. Enthusiasm for coding since elementary school and work on numerous STEM projects, including software for web, mobile, and desktop.
+  Ambitious and driven software engineer previously attended UC Berkeley and CCC. Enthusiasm for coding since elementary school and work on numerous STEM projects, including software for web, mobile, and desktop.
   
   Eager to contribute to team success through hard work, attention to detail, and genuine interest in the field. Able to quickly adapt to new technologies and problem solve in languages such as: Python, Java, JavaScript/TypeScript, C#, C/C++. Motivated to learn, grow, and excel in the Computer Science industry. 
   
@@ -105,14 +105,15 @@
 ---
 
 <!-- Connect-->
-<h3 align="center">Connect with me:</h3>
-<div align="center">
-  <a href="mailto:sameemsaleem2004@gmail.com" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> </a>
+<!-- <h3 align="center">Connect with me:</h3> -->
+<!-- <div align="center"> -->
+<!--   <a href="mailto:sameemsaleem2004@gmail.com" target="_blank">
+       <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> </a> -->
+<!--   <a href="https://www.linkedin.com/in/sameem-saleem" target="_blank">
+       <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a> -->
   
-  <a href="https://www.linkedin.com/in/sameem-saleem" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
-  <!-- Add portfolio some day
+    
+<!-- Add portfolio some day
   <a href="https://sameemsaleem.com" target="_blank">
   <img src="https://img.shields.io/badge/portfolio-800080?style=for-the-badge&logo=About.me&logoColor=white" height="35" alt="portfolio" /> </a>
   -->
